@@ -13,7 +13,8 @@
 	<!--	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> -->
     <title>Kelulusan</title>
 	<style> body { background-color : #ffff88; }  </style>
-		<script>
+	<script type="text/javascript" src="cordova.js"></script>      
+	<script type="text/javascript"">
 	function onLoad()
         {
            document.addEventListener("deviceready", onDeviceReady, true);
@@ -29,7 +30,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
 	<div class=container>
 	    <a class="navbar-brand" href="#">Kelulusan 2018/2019</a> 
-		<button type="button" class="btn btn-dark" onclick="exitFromApp()">
+		
           <font color=white><b>X</b></font>
         </button>
 	</div>    
@@ -55,9 +56,9 @@
 				<hr>
         <div class="container" id="movie-list"> 
         </div>
-	    <button onclick="exitFromApp()" class="btn btn-dark"><b>X</b></button>
+	    
     </div>
-
+<button onclick="exitFromApp()" class="btn btn-dark"><b>X</b></button>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
