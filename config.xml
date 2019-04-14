@@ -1,7 +1,7 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.2" id="jhoni (1)" version="1.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.3" id="jhoni (2)" version="1.0.2">
   <name>Lulus.19</name>
   <description>Kelulusan 2019</description>
-  <author href="http://todak-source.com" email="jhonipratama13@gmail.com.com">Jhoni Eka Putra (1)</author>
+  <author href="http://todak-source.com" email="jhonipratama13@gmail.com.com">Jhoni Eka Putra (2)</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
