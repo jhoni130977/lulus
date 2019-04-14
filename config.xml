@@ -1,7 +1,7 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.1" id="jhoni" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.2" id="jhoni (1)" version="1.0.1">
   <name>Lulus.19</name>
   <description>Kelulusan 2019</description>
-  <author href="http://todak-source.com" email="jhonipratama13@gmail.com.com">Jhoni Eka Putra</author>
+  <author href="http://todak-source.com" email="jhonipratama13@gmail.com.com">Jhoni Eka Putra (1)</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
@@ -32,18 +32,18 @@
     <icon src="icon.png" density="xhdpi"/>
     <icon src="icon.png" density="xxhdpi"/>
     <icon src="icon.png" density="xxxhdpi"/>
-    <splash src="screen.png" density="land-ldpi"/>
-    <splash src="screen.png" density="land-mdpi"/>
-    <splash src="screen.png" density="land-hdpi"/>
-    <splash src="screen.png" density="land-xhdpi"/>
-    <splash src="screen.png" density="land-xxhdpi"/>
-    <splash src="screen.png" density="land-xxxhdpi"/>
-    <splash src="screen.png" density="port-ldpi"/>
-    <splash src="screen.png" density="port-mdpi"/>
-    <splash src="screen.png" density="port-hdpi"/>
-    <splash src="screen.png" density="port-xhdpi"/>
-    <splash src="screen.png" density="port-xxhdpi"/>
-    <splash src="screen.png" density="port-xxxhdpi"/>
+    <splash src="icon.png.png" density="land-ldpi"/>
+    <splash src="icon.png.png" density="land-mdpi"/>
+    <splash src="icon.png.png" density="land-hdpi"/>
+    <splash src="icon.png.png" density="land-xhdpi"/>
+    <splash src="icon.png.png" density="land-xxhdpi"/>
+    <splash src="icon.png.png" density="land-xxxhdpi"/>
+    <splash src="icon.png.png" density="port-ldpi"/>
+    <splash src="icon.png.png" density="port-mdpi"/>
+    <splash src="icon.png.png" density="port-hdpi"/>
+    <splash src="icon.png.png" density="port-xhdpi"/>
+    <splash src="icon.png.png" density="port-xxhdpi"/>
+    <splash src="icon.png.png" density="port-xxxhdpi"/>
   </platform>
   <platform name="ios">
     <icon src="www/res/icon/ios/icon.png" platform="ios" width="57" height="57"/>
