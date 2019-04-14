@@ -1,5 +1,11 @@
 function searchMovies() {
-    $('#movie-list').html('');
+    $('#movie-list').html(`
+	  <div class="d-flex justify-content-center">
+		<div class="spinner-border text-danger" role="status">
+			<span class="sr-only">Loading...</span>
+		</div>
+	  </div>
+		`);
     $.ajax({
         url: 'http://smk-smeatdkosgoro2pdg.sch.id/lulusapi/home.php',
         type: 'get',
